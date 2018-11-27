@@ -1,0 +1,9 @@
+ml /c filename.asm
+link16 filename.obj
+
+4 space
+
+in dos
+mount c c:/masm32/bin
+c:
+filename.exe
